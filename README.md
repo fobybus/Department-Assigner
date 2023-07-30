@@ -19,4 +19,4 @@ string with your own connection string.
 * The student class holds the student object 
 * compairer.cs file is a class that extends icompairer for just compairing two students class 
 
-<img src="capture.png" width="300px" height="200px" alt="screen capture"/>
+<img src="static/capture.png" width="300px" height="200px" alt="screen capture"/>
